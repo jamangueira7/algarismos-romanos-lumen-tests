@@ -14,6 +14,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP](https://www.php.net/) - 7.2
+- [Lumen](https://lumen.laravel.com/) - 7.0
 - [Composer](https://getcomposer.org/) - v1.8.4
 - [Apache](https://www.apache.org/) 2.4.35
 
